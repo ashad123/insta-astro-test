@@ -1,0 +1,104 @@
+html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li{
+    font-weight:500;
+}
+
+.logo{
+   padding: 20px 0 40px 40px;
+}
+.headbtn{
+margin: 12px;
+margin-top: 20px;
+}
+.love-img{
+    border: 1px solid #C3C3C3;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.text-section{
+    margin-top: 35px;
+}
+.form-section{
+    background-color: #f3f3f3;
+}
+.love-form{
+    padding-bottom: 30px;
+    padding-top: 25px;
+}
+.text-section1{
+    font-size: 16px;
+    line-height: inherit;
+}
+.accordion-section{
+    background-color: #f3f3f3;
+}
+.footer-menu{
+    margin: 5rem;
+    margin-left: 10rem;
+    color: #fff;
+    text-decoration: underline;
+}
+.footer-menu li{
+    display: block;
+}
+.card img{
+    width: 90px;
+    margin-left: 35px;
+    margin-top: 12px;
+}
+.google-img{
+    text-align: center;
+}
+.footer-last li{
+    display: block;
+}
+.footer-contact li{
+    display: block;
+}
+.social-media{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  .social-media li{
+    display: inline-block;
+  }
+  
+  .social-media li .fa{ 
+    background: #5d5d5d;
+    color: #262626;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align:center;
+    line-height:50px;
+    transition: all .3s ease;
+  }
+
+.social-media .fa.fa-linkedin:hover{
+    background:#0083be;
+    color:#fff;
+  }
+  .social-media .fa.fa-twitter:hover{
+    background:#55acee;
+    color:#fff;
+   
+  }
+  
+  .social-media .fa.fa-facebook:hover{
+    background:#3b5998;
+    color:#fff;
+  }
+  
+  .social-media .fa.fa-linkedin:hover{
+    background:#0083be;
+    color:#fff;
+  }
+  
